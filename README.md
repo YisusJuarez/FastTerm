@@ -11,4 +11,4 @@ AppleScript para abrir la consola automáticamente y colocarla encima de todas l
 1. Abrir Preferencias del Sistema
 2. Navegar a Teclado > Funciones Rápidas > Servicios
 3. Buscar el Servicio Creado por Automator
-4. Activar y agregar funcion rápida (aquí se agragará el comando por ejem. **cmd** + **<**)
+4. Activar y agregar función rápida (aquí se agragará el comando por ejem. **cmd** + **<**)
